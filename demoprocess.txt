@@ -1,0 +1,7 @@
+Fix for User Story 1225069
+Fix for User Story 1225070
+Fix for User Story 1225162( check)
+
+https://teams.microsoft.com/_#/files/v1.7.2?threadId=19%3A29b51d7089fb4c648f227b55c5fb96a3%40thread.skype&ctx=channel&context=ES%25201.7.2%2520Sprint%2520Demos&rootfolder=%252Fsites%252FES1.7%252FShared%2520Documents%252Fv%25201.7.2%252FES%25201.7.2%2520Sprint%2520Demos
+
+https://teams.microsoft.com/_#/files/Venus?threadId=19%3A77e87ded63e14f40b9363542506c1d6d%40thread.tacv2&ctx=channel&context=Venus&rootfolder=%252Fsites%252FESPyxisSoftwareEngineering%252FShared%2520Documents%252FVenus
